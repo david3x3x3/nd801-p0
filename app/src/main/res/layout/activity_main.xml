@@ -14,7 +14,7 @@
 
     <Button
         android:layout_height="wrap_content"
-        android:text="@string/media_streamer"
+        android:text="@string/pop_movies"
         android:id="@+id/button"
         android:textSize="16dp"
         android:onClick="sendIntent"
